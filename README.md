@@ -1,4 +1,4 @@
-![Immagine1](https://github.com/7069wrk/OSINT-AI-en-/blob/assets/0.png)
+![originalCreatorLogo](https://github.com/7069wrk/OSINT-IA-en-/blob/8d540c8ba657dcdc50438c20153069e31cb4f289/images/0.png)
 
 ***AI in support of 'OSINT***
 
