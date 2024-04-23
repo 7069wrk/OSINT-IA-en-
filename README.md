@@ -1,4 +1,4 @@
-![Immagine1](https://github.com/CScorza/OSINT-I.A./assets/98583912/55d9f143-3de3-4310-8a66-9e26f1a999a4)
+![Immagine1](https://github.com/7069wrk/OSINT-AI-en-/blob/assets/0.png)
 
 ***AI in support of 'OSINT***
 
