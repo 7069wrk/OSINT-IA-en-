@@ -2,7 +2,7 @@
 
 ***AI in support of 'OSINT***
 
-![Progetto-senza-titolo-46-1024x576](https://github.com/CScorza/OSINT-I.A./assets/98583912/aaecfd78-0750-4e1d-ba39-4decaa81194f)
+![banner](https://github.com/7069wrk/OSINT-IA-en-/blob/94d0cf38a6d80a1eaf2cf14cb071ccfd3dcbb0b5/images/1.png)
 
 ```
 
@@ -21,7 +21,7 @@ Below is a list of useful tools for various activities.
 |[**ChatGPT**](https://chat.openai.com/auth/login)|
 |[**Gemini**](https://gemini.google.com/?hl=it)|
 
-![1702076712754](https://github.com/CScorza/OSINT-I.A./assets/98583912/94c896ac-856e-4a1d-98d6-563bb861365a)
+![grmini vs chatgpt](https://github.com/7069wrk/OSINT-IA-en-/blob/94d0cf38a6d80a1eaf2cf14cb071ccfd3dcbb0b5/images/2.jpg)
 
 **Hacking Chat AI**
 | --- |
@@ -47,7 +47,7 @@ Below is a list of useful tools for various activities.
 |[**Safurai**](https://www.safurai.com)|
 |[**10Web**](https://10web.io/ai-website-builder)| 
 
-![Migliori-linguaggi-programmazione](https://github.com/CScorza/OSINT-I.A./assets/98583912/1d273eb7-310e-4478-8d72-0273bcf6c516)
+![Best-programming-languages](https://github.com/7069wrk/OSINT-IA-en-/blob/94d0cf38a6d80a1eaf2cf14cb071ccfd3dcbb0b5/images/3.jpg)
 
 **For 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵** 
 | --- |
@@ -84,7 +84,7 @@ Below is a list of useful tools for various activities.
 |[**ResumeAI**](https://www.resumai.com)|
 |[**EnhanceCV**](https://enhancv.com)|
 
-![2024-04-21 10_30_58-Esempio di un Curriculum Vitae_ ecco come compilarlo passo passo](https://github.com/CScorza/OSINT-I.A./assets/98583912/e8398f97-fd3f-41ea-a45f-4dc229c8c5c3)
+![fill it out step by step](https://github.com/7069wrk/OSINT-IA-en-/blob/94d0cf38a6d80a1eaf2cf14cb071ccfd3dcbb0b5/images/4.png)
 
 
 **For the transcription of the 𝗔𝘂𝗱𝗶𝗼** 
@@ -98,5 +98,5 @@ Below is a list of useful tools for various activities.
 | --- |
 |[**YouTube Tran Script**](https://youtubetranscript.com/)|
 
-![trascrivere-audio-testo-offline](https://github.com/CScorza/OSINT-I.A./assets/98583912/2174830d-51e7-44e7-9a34-ae7e8f665b4f)
+![transcribe-audio-text-offline](https://github.com/7069wrk/OSINT-IA-en-/blob/94d0cf38a6d80a1eaf2cf14cb071ccfd3dcbb0b5/images/5.png)
 
