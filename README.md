@@ -98,5 +98,9 @@ Below is a list of useful tools for various activities.
 | --- |
 |[**YouTube Tran Script**](https://youtubetranscript.com/)|
 
+**For Translation***
+| --- |
+|[**Translate Videos**](https://www.vidnoz.com/video-translate.html)|
+
 ![transcribe-audio-text-offline](https://github.com/7069wrk/OSINT-IA-en-/blob/94d0cf38a6d80a1eaf2cf14cb071ccfd3dcbb0b5/images/5.png)
 
